@@ -14,25 +14,24 @@ Official steps: [Pinning items to your profile](https://docs.github.com/en/accou
 4. Next to **Show**, leave **Repositories** selected. You do not need gists.
 5. Select the repositories in the table, drag them into that order, and click **Save pins**.
 
-GitHub allows six pins. Five portfolio repositories fill the grid. A sixth is not needed.
+GitHub allows six pins. These four portfolio repositories are the pin set. Leave the other slots empty.
 
 ## Pin in this order
 
 | Order | Repository | What a visitor should see |
 | --- | --- | --- |
-| 1 | [customer-operations-agent](https://github.com/Birra3324/customer-operations-agent) | FastAPI ops agent, mock KB/CRM/Slack tools, handoff UI, n8n bridge |
-| 2 | [company-rag-assistant](https://github.com/Birra3324/company-rag-assistant) | Local knowledge assistant, hybrid retrieval, extractive answers, offline eval |
-| 3 | [ai-intake-demo](https://github.com/Birra3324/ai-intake-demo) | FastAPI intake validation, optional LLM, SQL, n8n routing, CI |
-| 4 | [visionmusicapp](https://github.com/Birra3324/visionmusicapp) | Flutter listener client; live at [www.visionmusic.et](https://www.visionmusic.et) |
-| 5 | [visionmusic-site](https://github.com/Birra3324/visionmusic-site) | Marketing site and [KayoBoard](https://visionmusic.et/kayo-game/) |
+| 1 | [ai-intake-demo](https://github.com/Birra3324/ai-intake-demo) | FastAPI intake validation, optional LLM, SQL, n8n routing, CI |
+| 2 | [customer-operations-agent](https://github.com/Birra3324/customer-operations-agent) | FastAPI ops agent, mock KB/CRM/Slack tools, handoff UI, n8n bridge |
+| 3 | [company-rag-assistant](https://github.com/Birra3324/company-rag-assistant) | Local knowledge assistant, hybrid retrieval, extractive answers, offline eval |
+| 4 | [visionmusicapp](https://github.com/Birra3324/visionmusicapp) | Flutter listener; live at [www.visionmusic.et](https://www.visionmusic.et); built under Vision Entertainment LLC ([vision-ent.com](https://vision-ent.com/)), which ended mid-2026 |
 
-## Sixth pin
+## Slots five and six
 
-Leave it empty.
+Leave them empty.
 
-The only other **public** repository on this account is [Birra3324](https://github.com/Birra3324/Birra3324), which is this profile README. It already renders above the pins, so pinning it does not add a project.
+[visionmusic-site](https://github.com/Birra3324/visionmusic-site) is public and is not part of this pin list. [Birra3324](https://github.com/Birra3324/Birra3324) is this profile README. It already renders above the pins, so pinning it does not add a project.
 
-Do not pin private repositories. Do not pin Vision Music admin or backend repositories. The public profile links the listener client and the marketing site only.
+Do not pin private repositories.
 
 ## What is pinned today
 
@@ -42,8 +41,8 @@ Checked on 2026-09-24 with a public `pinnedItems` read (three pins):
 2. company-rag-assistant
 3. visionmusicapp
 
-After **Save pins**, the order should be customer-operations-agent, company-rag-assistant, ai-intake-demo, visionmusicapp, visionmusic-site.
+After **Save pins**, the order should be ai-intake-demo, customer-operations-agent, company-rag-assistant, visionmusicapp.
 
 ## Check
 
-Open https://github.com/Birra3324 in a private window. Confirm those five titles, in that order, and confirm no admin or backend repository is pinned or linked from the profile README.
+Open https://github.com/Birra3324 in a private window. Confirm those four titles, in that order, and confirm no private repository is pinned or linked from the profile README.

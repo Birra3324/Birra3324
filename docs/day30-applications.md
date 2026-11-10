@@ -13,7 +13,7 @@ Final day of the 30-day AI Automation job plan (started 2026-09-02).
 - [company-rag-assistant](https://github.com/Birra3324/company-rag-assistant)
 - [customer-operations-agent](https://github.com/Birra3324/customer-operations-agent)
 - [visionmusicapp](https://github.com/Birra3324/visionmusicapp) · [visionmusic.et](https://www.visionmusic.et)
-- Profile: [github.com/Birra3324](https://github.com/Birra3324) · [visionaiops.com](https://visionaiops.com)
+- Profile: [github.com/Birra3324](https://github.com/Birra3324)
 
 ## Notable blockers (not counted as submits)
 
