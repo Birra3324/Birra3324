@@ -10,7 +10,7 @@
 4. [visionmusicapp](https://github.com/Birra3324/visionmusicapp) — Flutter listener · live [visionmusic.et](https://www.visionmusic.et)
 5. [visionmusic-site](https://github.com/Birra3324/visionmusic-site) — Marketing site · [KayoBoard game](https://visionmusic.et/kayo-game/)
 
-Profile: [github.com/Birra3324](https://github.com/Birra3324) · Consulting: [visionaiops.com](https://visionaiops.com)
+Profile: [github.com/Birra3324](https://github.com/Birra3324)
 
 ## Notes
 - Kayoboard **Android IME** is founder mobile work; not claimed as a public Birra3324 app repo.
